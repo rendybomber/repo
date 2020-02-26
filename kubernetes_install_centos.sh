@@ -4,7 +4,7 @@
 #Author : Randi Sunarsa
 #Copyright : 2020
 echo '--------------------------------'
-echo '###_Please wait for kubernetes Installation _###'
+echo '####_Please wait for kubernetes Installation _####'
 echo '--------------------------------'
 echo 'Adding Kubernetes Repository  .'
 echo 'kubernetes]
