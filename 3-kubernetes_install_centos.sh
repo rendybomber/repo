@@ -7,7 +7,7 @@ echo '--------------------------------'
 echo '####_Please wait for kubernetes Installation _####'
 echo '--------------------------------'
 echo 'Adding Kubernetes Repository  .'
-echo 'kubernetes]
+echo '[kubernetes]
 name=Kubernetes
 baseurl=https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64
 enabled=1
