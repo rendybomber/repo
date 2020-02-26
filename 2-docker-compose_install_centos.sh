@@ -4,7 +4,7 @@
 #Author : Randi Sunarsa
 #Copyright : 2020
 echo '--------------------------------'
-echo '###_Please wait for Docker Compose Installation_###'
+echo '####_Please wait for Docker Compose Installation_####'
 echo '--------------------------------'
 echo 'Dependencies installation   .'
 yum -y install curl
