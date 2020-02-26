@@ -13,7 +13,7 @@ echo 'Adding Docker Repository   .'
 yum-config-manager  --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 echo '--------------------------------'
 echo 'Docker installation   .'
-yum install docker-ce
+yum install -y docker-ce
 echo '--------------------------------'
 echo 'Starting Docker Service  .'
 systemctl start docker
